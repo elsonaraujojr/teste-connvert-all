@@ -8,17 +8,17 @@ git clone git@github.com:zugzwangbw/test-connvert-all.git
 
 ## 🧰 Iniciar projeto
 
-Entrar na pasta do projeto via terminal de dar o comando: `cd test-connvert-all`.
+Entrar na pasta do projeto via terminal e executar o comando: `cd test-connvert-all`.
 
 Abrir o projeto no [vscode](https://code.visualstudio.com/): `code .`
 
-## Teste Wireframe basic
+## 🎨 Teste Wireframe basic
 
 Wireframe desenvolvido no [Figma](https://www.figma.com/), imagens estão na pasta "test-wireframe/*".
 
 [Início ou Home](test-wireframe/inicio.png).
 
-[Cadastro/Solicitação de filme](test-wireframe/cadastro-de-filmes.png)
+[Cadastro/Solicitação de filme](test-wireframe/cadastro-de-filmes.png).
 
 [Link Figma](https://www.figma.com/file/D0hVqnbLwYxPsEAcfuBtav/Untitled?node-id=0%3A1) Projeto.
 
@@ -26,7 +26,7 @@ Wireframe desenvolvido no [Figma](https://www.figma.com/), imagens estão na pas
 
 Instalar extensão no vscode [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), que já esta configurado a porta no arquivo [.vscode/settings.json](.vscode/settings.json).
 
-Clicar no "Go Live" do vscode que está no canto inferior direito da tela, abrira no seu browser a tela requisitar na descrição do teste número 12.
+Clicar no "Go Live" do vscode que está no canto inferior a direito da tela, abrirá no seu browser a tela requisitar na descrição do teste número 12.
 
 ## 🧰 Iniciar backend
 
@@ -45,6 +45,6 @@ Para visualizar o layout do backend acesse no seu browser: `http://localhost:300
 Abrir outro terminal, entrar ne pasta do projeto `cd test-connvert-ng`;
 
 1. `npm install` or `yarn`;
-2. `ng server` or `npm watch && npm run start`;
+2. `ng server` or `npm run watch && npm run start`;
 
 Teste número 14.
